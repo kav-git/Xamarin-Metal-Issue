@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{18496230-98A8-4CF6-9C2B-2CEEF00A9DDE}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="TestApp1/ViewController.designer.cs">
+    <Files>
+      <File FileName="TestApp1/ViewController.cs" Line="57" Column="14" />
+      <File FileName="TestApp1/Main.storyboard" />
+      <File FileName="TestApp1/Main.cs" Line="12" Column="1" />
+      <File FileName="TestApp1/ViewController.designer.cs" Line="31" Column="62" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhone" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../IRIS/IRIS.iOS/IRIS.iOSApp/ToolDropDown.cs" line="23" offsetX="509" offsetY="48" expression="button" liveUpdate="False" />
+    <Watch file="../IRIS/IRIS.iOS/IRIS.iOSApp/ToolDropDown.cs" line="23" offsetX="605" offsetY="396" expression="items[i].Parent" liveUpdate="False" />
+    <Watch file="../IRIS/IRIS.iOS/IRIS.iOSApp/ToolDropDown.cs" line="23" offsetX="480" offsetY="330" expression="button.Item.Parent" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.TestApp1 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneDeviceTarget.5234897b14153e01d70edbdae6f66eacdcec42a1" />
+  <MultiItemStartupConfigurations />
+</Properties>
